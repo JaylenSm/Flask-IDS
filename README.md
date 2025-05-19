@@ -28,7 +28,6 @@ The intended usage of this package is to demonstrate to employers the functional
 # Presentation
 
 For a presentation/demo of the project [CLICK ME](For a presentation/demo of the project [CLICK ME](https://onedrive.live.com/:p:/g/personal/8D3E98D829540707/ESvu3V1S6vJGjr9dlvnkVU0BGHtKPD3NyqD_e2FWwZP65Q?resid=8D3E98D829540707!s5dddee2bea5246f28ebf5d96f9e4554d&ithint=file%2Cpptx&e=okM3HH&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy84ZDNlOThkODI5NTQwNzA3L0VTdnUzVjFTNnZKR2pyOWRsdm5rVlUwQkdIdEtQRDNOeXFEX2UyRld3WlA2NVE_ZT1va00zSEg).
-).
 
 # Requirements
 
