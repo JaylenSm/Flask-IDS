@@ -51,3 +51,9 @@ For a presentation/demo of the project [CLICK ME](https://1drv.ms/p/c/8d3e98d829
 
 - You can now access the honeypot via localhost/127.0.0.1 address and port 5000!
 
+
+### 🔖 Tags
+
+`#python` `#cybersecurity` `#networking` `#prototype` `#model` `#research` `#IDS`
+
+
