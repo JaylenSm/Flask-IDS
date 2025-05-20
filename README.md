@@ -1,9 +1,12 @@
 # Flask-IDS
+
 This is a lightweight, IDS pipeline utilized with a dashboard script to dynamically and safely display threat logs treated as text. So code in logs can not be executed by the Flask interpreter. Jinja2 is used to accomplish this as it escapes HTML logic. The IDS is standalone without any other solutions put in place, however, an IPS is simulated via the blocking of access to the admin page. Which is set to serve the "403" forbidden page by default when showcasing the project. Due to an IDS and IPS solution typically being served together. 
+
 
 ## 📄 License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
 
 ## 📜 Table of Contents
 
@@ -13,6 +16,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [Requirements](#Requirements)
 - [Installation](#Installation)
 
+
 # Features 
 
 - The package features a Docker-ready IDS prototype pipeline stack, complete with a Flask web-server that leverages Jinja2, a dashboard with it's own dedicated environment, and an IDS engine whose I/O operations communicate with the dashboard.
@@ -21,13 +25,16 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 - The package includes a dockerfile that allows for quick, portable image and container building.
 
+
 # Usage
 
 The intended usage of this package is to demonstrate to employers the functionality of my project. It is not intended for personal or commercial benefit, however, the codebase is open to researchers who wish to reference my model. Although, optimability shouldn't be expected as this is a logical demonstration. 
 
+
 # Presentation
 
 For a presentation/demo of the project [CLICK ME](https://1drv.ms/p/c/8d3e98d829540707/EZu0e0iBCaBOvzP5tWswr2wB5bEvFshvjzXiWc2hPEPooA?e=nZsFVB).
+
 
 # Requirements
 
@@ -36,6 +43,7 @@ For a presentation/demo of the project [CLICK ME](https://1drv.ms/p/c/8d3e98d829
 - Have the flask library installed (The requirements.txt file lists flask which will automatically be installed by the Dockerfile.).
 
 - Have Python3 (3.10-slim installed by Dockerfile) installed in your working environment.
+
 
 # Installation
 
